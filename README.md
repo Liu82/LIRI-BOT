@@ -14,8 +14,8 @@ spotify codes
 
 
 <p align="center">
-    <img src="One.png">
-    <img src="wantit.png">
-    <img src="concert-this.png">
-    <img src="searchmovie.png">
-    <img src="whatsays.png">
+    <img src="pics/One.png">
+    <img src="pics/wantit.png">
+    <img src="pics/concert-this.png">
+    <img src="pics/searchmovie.png">
+    <img src="pics/whatsays.png">
