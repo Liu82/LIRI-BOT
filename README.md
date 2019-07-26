@@ -11,3 +11,11 @@ Node packages that are needed for the assignment:
 Technology Used
 Node.js
 spotify codes
+
+
+<p align="center">
+    <img src="One.png">
+    <img src="wantit.png">
+    <img src="concert-this.png">
+    <img src="searchmovie.png">
+    <img src="whatsays.png">
